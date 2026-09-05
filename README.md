@@ -1,2 +1,2 @@
-# SillyTavern-Czech-frendly-to-translate
+# SillyTavern-Czech-friendly-to-translate
 SillyTavern AI Translate
